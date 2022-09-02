@@ -211,7 +211,7 @@ if (birthYear <= 2000) {
 console.log(century);
 
 
-*/
+
 
 
 const massMark = 78;
@@ -235,4 +235,13 @@ const massMark = 78;
  } else {
     console.log(`John's BMI (${BMIJohn}) is higher than Mark's ${BMIMark}) !`)
  }
+*/
+
+let isIsland = false;
+let language;
+
+console.log(typeof isIsland);
+console.log(typeof population);
+console.log(typeof country);
+console.log(typeof language);
 
